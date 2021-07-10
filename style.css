@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: white;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-top: -4px !important;
+  margin-left: 10px !important;
+}
+
+form {
+  margin: 20px;
+}
+
+table {
+  margin: 20px auto;
+}
+
+.title {
+  margin-top: 10px;
+}
